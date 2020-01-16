@@ -1,0 +1,26 @@
+# Game Rules
+
+Goals:
+Collect coins (Press'c') as much as possible and escape the maze in the shortest time
+
+Hearts: 
+-The explorer will have 5 hearts at the beginning of game.
+-The explorer will get one more heart while entering the next level.
+-The explorer will lose 1 heart while detonating monsters or being shooted by monsters.
+
+Bomb:
+-The explorer won't have bomb at the beginning of game.
+-Bomb can be used for cleaning 9 grid around the explorer. Hidden monsters and coins will be cleaned as well.
+-If the explorer collects more than 7 coins, he will get one more bomb while entering the next level.
+-Click on "Bomb" and press "Enter" to use it.
+
+Bullet:
+-The explorer will have 50 bullets at the beginning of game.
+-The explorer presses "Space" to shoot monsters.
+-Consumed Bullets won't come back.
+
+Map:
+-The explorer won't have map at the beginning of game.
+-Map can be used for checking if there are any monsters hidden under the 8 nearby grids.
+-If the explorer collects more than 5 coins, he will get one more map while entering the next level.
+-Click on "Map" and press "Enter" to use it.
